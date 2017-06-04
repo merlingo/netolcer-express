@@ -1,0 +1,24 @@
+1- login - register template bul düzelt modal olarak sayfaya ekle
+2- login register icin angularjs kodlarý yaz
+3- login register icin get post RESTful expressler yaz
+4- kullanýcý ve müsteriyi veritabanýna ekle
+5- müsteri sayfasýný tasarla
+6- admin sayfasýný tasarla
+7- ekranlarý düzenle
+8- angularjslerini yaz
+9- RESTful expresslerini yaz
+10 veritabaný modellerini düzenle fonksiyonlar falan
+
+Net olcer son güncelleme
+1- hatayý düzelt -> idm'nin hatasý
+2- screen resolution
+3- log tutma - try catchlerle hatayý geçiþtirme
+4- internet üstünden güncelleme -
+5- paralel programlama ile bilgileri ekrana yazma
+
+Net ölçer web
+1- Datalogger model sýnýfý güncellenecek, winformdaki veriyapýsý oluþturulacak
+2- Musteri router düzeltilecek ve denenerek son haline getirilecek
+3- DLRouter yazýlacak
+4- angularjs ve bootstrap ile client side sayfalarý yazýlacak
+5- template kýsýmlarý yazýlacak
